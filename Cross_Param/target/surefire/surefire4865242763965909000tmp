@@ -1,0 +1,8 @@
+#surefire
+#Sun Feb 28 16:13:50 EET 2016
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Sal\\Documents\\NetBeansProjects\\Cross_Param
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Sal\\.m2\\repository
+basedir=C\:\\Users\\Sal\\Documents\\NetBeansProjects\\Cross_Param
+test=Suite_Param
